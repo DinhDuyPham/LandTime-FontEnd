@@ -18,7 +18,7 @@ const MainCrosel = () => {
             autoHeight
             disableButtonsControls
             autoPlay
-            autoPlayInterval={3000}
+            autoPlayInterval={2000}
             infinite
         />
     )
